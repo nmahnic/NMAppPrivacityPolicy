@@ -1,1 +1,1 @@
-# empanadasCounterAppPrivacityPolicy
+# NMAppPrivacityPolicy
